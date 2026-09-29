@@ -2,7 +2,16 @@ Smart Banking System
 
 A full-stack banking system supporting concurrent transactions and transaction rollback. The backend is written in C++17 and provides a RESTful API; the frontend uses React to build interactive dashboards.
 
-GitHub: https://github.com/yaoyangzhang1234894/mini-bank-system
+![C++](https://img.shields.io/badge/C++-17-blue?style=for-the-badge&logo=c%2B%2B)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
+![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite)
+![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=for-the-badge&logo=docker)
+
+![Last Commit](https://img.shields.io/github/last-commit/yaoyangzhang1234894/NovaBank?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/yaoyangzhang1234894/NovaBank?style=for-the-badge)
+![License](https://img.shields.io/github/license/yaoyangzhang1234894/NovaBank?style=for-the-badge)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-blue?style=for-the-badge)](https://your-app.vercel.app)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
