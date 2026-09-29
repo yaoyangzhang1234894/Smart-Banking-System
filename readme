@@ -2,6 +2,7 @@ Smart Banking System
 
 A full-stack banking system supporting concurrent transactions and transaction rollback. The backend is written in C++17 and provides a RESTful API; the frontend uses React to build interactive dashboards.
 
+
 ![Full Stack](https://img.shields.io/badge/Full_Stack-C++_%7C_React-blueviolet?style=for-the-badge)
 ![C++17](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -9,8 +10,6 @@ A full-stack banking system supporting concurrent transactions and transaction r
 ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Multithreading](https://img.shields.io/badge/Multithreading-mutex_%7C_atomic-orange?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-httplib-009688?style=for-the-badge)
-
-
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ## Technology Stack
